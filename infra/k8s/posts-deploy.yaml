@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: posts
-        image: panta19l/posts:0.0.6
+        image: panta19l/posts
 
 ---
 apiVersion: v1
