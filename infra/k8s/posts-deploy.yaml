@@ -20,7 +20,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata: 
-  name:  posts-cluster-srv
+  name:  posts-srv
 spec:
   selector:
     app: posts
